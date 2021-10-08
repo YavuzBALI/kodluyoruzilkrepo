@@ -1,12 +1,16 @@
 # Kodluyoruz Ilk Repo
 
 Bu repo[Kodluyoruz](https://www.kodluyoruz.org) Veri Bilimi eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası,bir de index.html barındırıyor.
+
 ![](C:\Users\YavoBalo\Desktop\Projeler\Kurslar\Patika\Veri Bilimi\kodluyoruzilkrepo\Ekran Alıntısı.PNG)
+
 ## Installation
 
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
-'git clone https://github.com/YavuzBALI/kodluyoruzilkrepo.git'
+'
+git clone https://github.com/YavuzBALI/kodluyoruzilkrepo.git
+'
 
 ## Usage
 
